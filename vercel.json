@@ -7,8 +7,8 @@
   },
   "build": {
     "env": {
-      "NEXT_PUBLIC_REST_API_ENDPOINT": "https://borobazar.vercel.app/api",
-      "NEXT_PUBLIC_WEBSITE_URL": "https://borobazar.vercel.app/",
+      "NEXT_PUBLIC_REST_API_ENDPOINT": "https://boro.vercel.app/api",
+      "NEXT_PUBLIC_WEBSITE_URL": "https://boro.vercel.app/",
       "NEXT_PUBLIC_STRIPE_PUBLIC_KEY": "pk_test_51JUDYDHE5OSjrvPugQ9mmxXvbKTVeN3ylicpta7qLBbKhLJ46qN2SxIzYLUN1rKsK2ZBeNl3jImSgnBdVXIuaWFX00xFdlgcUP",
       "NEXT_PUBLIC_GOOGLE_API_KEY": "AIzaSyCsnCC4AOF2XK42fm7SFcjYkUiGtUqs5T8"
     }
