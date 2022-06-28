@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Good & Gather",
+      "slug": "good-gather"
+    },
+    {
+      "id": 2,
+      "name": "Green Giant",
+      "slug": "green-giant"
+    },
+    {
+      "id": 3,
+      "name": "Veg-Land",
+      "slug": "veg-land"
+    }
+  ]
+}

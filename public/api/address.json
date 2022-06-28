@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "title": "Home",
+        "default": true,
+        "address": {
+            "lat": 1.357334,
+            "lng": 103.821417,
+            "formatted_address" : "Wolfson Institute of Preventive Medicine, London EC1M 7BA, UK"
+        }
+    },
+    {
+        "id": 2,
+        "title": "Office",
+        "default": false,
+        "address": {
+            "lat": 51.522379,
+            "lng": -0.099130,
+            "formatted_address" : "80 Windsor Park Rd, Singapore 574175"
+        }
+    }
+]

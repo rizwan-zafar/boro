@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Organic",
+      "slug": "organic"
+    },
+    {
+      "id": 2,
+      "name": "Kakogenic",
+      "slug": "kakogenic"
+    },
+    {
+      "id": 3,
+      "name": "Vegetarian",
+      "slug": "vegetarian"
+    },
+    {
+      "id": 4,
+      "name": "Mediterranean",
+      "slug": "mediterranean"
+    }
+  ]
+}

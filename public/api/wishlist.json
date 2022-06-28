@@ -1,0 +1,665 @@
+[
+    {
+      "id": "w1",
+      "name": "Ocean Mist Farms Green Leaf Lettuce",
+      "slug": "ocean-mist-farms-green-leaf-lettuce",
+      "description": "Contains Folic acid, Vitamin K, Carotenoids, Iron, Calcium, Mint facilitates digestion and acts as a remedy for treating acne and pimples. Treat them like a little bouquet and put them in the fridge. Snip off stalks as you need them. Alternatively, you can store them in the plastic bag.",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-1.png",
+        "original": "/assets/images/products/p-1-m.png"
+      },
+      "gallery": [
+        {
+          "id": 1,
+          "thumbnail": "/assets/images/products/p-1-1.png",
+          "original": "/assets/images/products/p-1-1-m.png"
+        },
+        {
+          "id": 2,
+          "thumbnail": "/assets/images/products/p-1-2.png",
+          "original": "/assets/images/products/p-1-2-m.png"
+        },
+        {
+          "id": 3,
+          "thumbnail": "/assets/images/products/p-1-3.png",
+          "original": "/assets/images/products/p-1-3-m.png"
+        }
+      ],
+      "quantity": 70,
+      "price": 1.74,
+      "sale_price": 1.74,
+      "unit": "1 each",
+      "tag": [
+        {
+          "id": 1,
+          "name": "Fresh food",
+          "slug": "fresh-food"
+        },
+        {
+          "id": 2,
+          "name": "Organic",
+          "slug": "organic"
+        },
+        {
+          "id": 3,
+          "name": "Cilantro",
+          "slug": "cilantro"
+        },
+        {
+          "id": 4,
+          "name": "Dry Food",
+          "slug": "dry-food"
+        }
+      ],
+      "variations": [
+        {
+          "id": 1,
+          "value": "1ct",
+          "attribute": {
+            "id": 1,
+            "name": "Available in",
+            "slug": "available-in"
+          }
+        },
+        {
+          "id": 2,
+          "value": "5ct",
+          "attribute": {
+            "id": 1,
+            "name": "Available in",
+            "slug": "available-in"
+          }
+        },
+        {
+          "id": 3,
+          "value": "10ct",
+          "attribute": {
+            "id": 1,
+            "name": "Available in",
+            "slug": "available-in"
+          }
+        }
+      ]
+    },
+    {
+      "id": "w2",
+      "name": "Ocean Mist Farms Green Leaf Lettuce",
+      "slug": "ocean-mist-farms-green-leaf-lettuce",
+      "description": "Contains Folic acid, Vitamin K, Carotenoids, Iron, Calcium, Mint facilitates digestion and acts as a remedy for treating acne and pimples. Treat them like a little bouquet and put them in the fridge. Snip off stalks as you need them. Alternatively, you can store them in the plastic bag.",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-2.png",
+        "original": "/assets/images/products/p-2-m.png"
+      },
+      "gallery": [
+        {
+          "id": 1,
+          "thumbnail": "/assets/images/products/p-1-1.png",
+          "original": "/assets/images/products/p-1-1-m.png"
+        },
+        {
+          "id": 2,
+          "thumbnail": "/assets/images/products/p-1-2.png",
+          "original": "/assets/images/products/p-1-2-m.png"
+        },
+        {
+          "id": 3,
+          "thumbnail": "/assets/images/products/p-1-3.png",
+          "original": "/assets/images/products/p-1-3-m.png"
+        }
+      ],
+      "quantity": 70,
+      "price": 1.74,
+      "sale_price": 1.74,
+      "unit": "1 each",
+      "tag": [
+        {
+          "id": 1,
+          "name": "Fresh food",
+          "slug": "fresh-food"
+        },
+        {
+          "id": 2,
+          "name": "Organic",
+          "slug": "organic"
+        },
+        {
+          "id": 3,
+          "name": "Cilantro",
+          "slug": "cilantro"
+        },
+        {
+          "id": 4,
+          "name": "Dry Food",
+          "slug": "dry-food"
+        }
+      ],
+      "variations": [
+        {
+          "id": 1,
+          "value": "1ct",
+          "attribute": {
+            "id": 1,
+            "name": "Available in",
+            "slug": "available-in"
+          }
+        },
+        {
+          "id": 2,
+          "value": "5ct",
+          "attribute": {
+            "id": 1,
+            "name": "Available in",
+            "slug": "available-in"
+          }
+        },
+        {
+          "id": 3,
+          "value": "10ct",
+          "attribute": {
+            "id": 1,
+            "name": "Available in",
+            "slug": "available-in"
+          }
+        }
+      ]
+    },
+    {
+      "id": "w3",
+      "name": "Fresh Express Iceberg Garden Salad Blend",
+      "slug": "fresh-express-iceberg-garden-salad-blend",
+      "description": "Contains Folic acid, Vitamin K, Carotenoids, Iron, Calcium, Mint facilitates digestion and acts as a remedy for treating acne and pimples. Treat them like a little bouquet and put them in the fridge. Snip off stalks as you need them. Alternatively, you can store them in the plastic bag.",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-3.png",
+        "original": "/assets/images/products/p-3-m.png"
+      },
+      "gallery": [
+        {
+          "id": 1,
+          "thumbnail": "/assets/images/products/p-1-1.png",
+          "original": "/assets/images/products/p-1-1-m.png"
+        },
+        {
+          "id": 2,
+          "thumbnail": "/assets/images/products/p-1-2.png",
+          "original": "/assets/images/products/p-1-2-m.png"
+        },
+        {
+          "id": 3,
+          "thumbnail": "/assets/images/products/p-1-3.png",
+          "original": "/assets/images/products/p-1-3-m.png"
+        }
+      ],
+      "quantity": 70,
+      "price": 1.74,
+      "sale_price": 1.48,
+      "unit": "12 oz bag",
+      "tag": [
+        {
+          "id": 1,
+          "name": "Fresh food",
+          "slug": "fresh-food"
+        },
+        {
+          "id": 2,
+          "name": "Organic",
+          "slug": "organic"
+        },
+        {
+          "id": 3,
+          "name": "Cilantro",
+          "slug": "cilantro"
+        },
+        {
+          "id": 4,
+          "name": "Dry Food",
+          "slug": "dry-food"
+        }
+      ],
+      "variations": [
+        {
+          "id": 1,
+          "value": "12oz",
+          "attribute": {
+            "id": 1,
+            "name": "Available in",
+            "slug": "available-in"
+          }
+        },
+        {
+          "id": 2,
+          "value": "24oz",
+          "attribute": {
+            "id": 1,
+            "name": "Available in",
+            "slug": "available-in"
+          }
+        },
+        {
+          "id": 3,
+          "value": "36oz",
+          "attribute": {
+            "id": 1,
+            "name": "Available in",
+            "slug": "available-in"
+          }
+        }
+      ]
+    },
+    {
+      "id": "w4",
+      "name": "Market Side Organic Spring Mix",
+      "slug": "market-side-organic-spring-mix",
+      "description": "Contains Folic acid, Vitamin K, Carotenoids, Iron, Calcium, Mint facilitates digestion and acts as a remedy for treating acne and pimples. Treat them like a little bouquet and put them in the fridge. Snip off stalks as you need them. Alternatively, you can store them in the plastic bag.",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-4.png",
+        "original": "/assets/images/products/p-4-m.png"
+      },
+      "gallery": [
+        {
+          "id": 1,
+          "thumbnail": "/assets/images/products/p-1-1.png",
+          "original": "/assets/images/products/p-1-1-m.png"
+        },
+        {
+          "id": 2,
+          "thumbnail": "/assets/images/products/p-1-2.png",
+          "original": "/assets/images/products/p-1-2-m.png"
+        },
+        {
+          "id": 3,
+          "thumbnail": "/assets/images/products/p-1-3.png",
+          "original": "/assets/images/products/p-1-3-m.png"
+        }
+      ],
+      "quantity": 70,
+      "price": 3.46,
+      "sale_price": 3.46,
+      "unit": "5.5 oz",
+      "tag": [
+        {
+          "id": 1,
+          "name": "Fresh food",
+          "slug": "fresh-food"
+        },
+        {
+          "id": 2,
+          "name": "Organic",
+          "slug": "organic"
+        },
+        {
+          "id": 3,
+          "name": "Cilantro",
+          "slug": "cilantro"
+        },
+        {
+          "id": 4,
+          "name": "Dry Food",
+          "slug": "dry-food"
+        }
+      ],
+      "variations": [
+        {
+          "id": 1,
+          "value": "1ct",
+          "attribute": {
+            "id": 1,
+            "name": "Available in",
+            "slug": "available-in"
+          }
+        },
+        {
+          "id": 2,
+          "value": "5ct",
+          "attribute": {
+            "id": 1,
+            "name": "Available in",
+            "slug": "available-in"
+          }
+        },
+        {
+          "id": 3,
+          "value": "10ct",
+          "attribute": {
+            "id": 1,
+            "name": "Available in",
+            "slug": "available-in"
+          }
+        }
+      ]
+    },
+    {
+      "id": "w5",
+      "name": "Organic Spring Mix",
+      "slug": "organic-spring-mix",
+      "description": "Contains Folic acid, Vitamin K, Carotenoids, Iron, Calcium, Mint facilitates digestion and acts as a remedy for treating acne and pimples. Treat them like a little bouquet and put them in the fridge. Snip off stalks as you need them. Alternatively, you can store them in the plastic bag.",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-5.png",
+        "original": "/assets/images/products/p-5-m.png"
+      },
+      "gallery": [
+        {
+          "id": 1,
+          "thumbnail": "/assets/images/products/p-1-1.png",
+          "original": "/assets/images/products/p-1-1-m.png"
+        },
+        {
+          "id": 2,
+          "thumbnail": "/assets/images/products/p-1-2.png",
+          "original": "/assets/images/products/p-1-2-m.png"
+        },
+        {
+          "id": 3,
+          "thumbnail": "/assets/images/products/p-1-3.png",
+          "original": "/assets/images/products/p-1-3-m.png"
+        }
+      ],
+      "quantity": 70,
+      "price": 1.74,
+      "sale_price": 1.74,
+      "unit": "16 oz container",
+      "tag": [
+        {
+          "id": 1,
+          "name": "Fresh food",
+          "slug": "fresh-food"
+        },
+        {
+          "id": 2,
+          "name": "Organic",
+          "slug": "organic"
+        },
+        {
+          "id": 3,
+          "name": "Cilantro",
+          "slug": "cilantro"
+        },
+        {
+          "id": 4,
+          "name": "Dry Food",
+          "slug": "dry-food"
+        }
+      ],
+      "variations": [
+        {
+          "id": 1,
+          "value": "1ct",
+          "attribute": {
+            "id": 1,
+            "name": "Available in",
+            "slug": "available-in"
+          }
+        },
+        {
+          "id": 2,
+          "value": "5ct",
+          "attribute": {
+            "id": 1,
+            "name": "Available in",
+            "slug": "available-in"
+          }
+        },
+        {
+          "id": 3,
+          "value": "10ct",
+          "attribute": {
+            "id": 1,
+            "name": "Available in",
+            "slug": "available-in"
+          }
+        }
+      ]
+    },
+    {
+      "id": "w6",
+      "name": "Ocean Mist Farms Romaine Lettuce",
+      "slug": "ocean-mist-farms-romaine-lettuce",
+      "description": "Contains Folic acid, Vitamin K, Carotenoids, Iron, Calcium, Mint facilitates digestion and acts as a remedy for treating acne and pimples. Treat them like a little bouquet and put them in the fridge. Snip off stalks as you need them. Alternatively, you can store them in the plastic bag.",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-6.png",
+        "original": "/assets/images/products/p-6-m.png"
+      },
+      "gallery": [
+        {
+          "id": 1,
+          "thumbnail": "/assets/images/products/p-1-1.png",
+          "original": "/assets/images/products/p-1-1-m.png"
+        },
+        {
+          "id": 2,
+          "thumbnail": "/assets/images/products/p-1-2.png",
+          "original": "/assets/images/products/p-1-2-m.png"
+        },
+        {
+          "id": 3,
+          "thumbnail": "/assets/images/products/p-1-3.png",
+          "original": "/assets/images/products/p-1-3-m.png"
+        }
+      ],
+      "quantity": 70,
+      "price": 1.98,
+      "sale_price": 1.98,
+      "unit": "1 ct",
+      "tag": [
+        {
+          "id": 1,
+          "name": "Fresh food",
+          "slug": "fresh-food"
+        },
+        {
+          "id": 2,
+          "name": "Organic",
+          "slug": "organic"
+        },
+        {
+          "id": 3,
+          "name": "Cilantro",
+          "slug": "cilantro"
+        },
+        {
+          "id": 4,
+          "name": "Dry Food",
+          "slug": "dry-food"
+        }
+      ],
+      "variations": [
+        {
+          "id": 1,
+          "value": "1ct",
+          "attribute": {
+            "id": 1,
+            "name": "Available in",
+            "slug": "available-in"
+          }
+        },
+        {
+          "id": 2,
+          "value": "5ct",
+          "attribute": {
+            "id": 1,
+            "name": "Available in",
+            "slug": "available-in"
+          }
+        },
+        {
+          "id": 3,
+          "value": "10ct",
+          "attribute": {
+            "id": 1,
+            "name": "Available in",
+            "slug": "available-in"
+          }
+        }
+      ]
+    },
+    {
+      "id": "w7",
+      "name": "Broccoli Crown Bag",
+      "slug": "broccoli-crown-bag",
+      "description": "Contains Folic acid, Vitamin K, Carotenoids, Iron, Calcium, Mint facilitates digestion and acts as a remedy for treating acne and pimples. Treat them like a little bouquet and put them in the fridge. Snip off stalks as you need them. Alternatively, you can store them in the plastic bag.",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-7.png",
+        "original": "/assets/images/products/p-7-m.png"
+      },
+      "gallery": [
+        {
+          "id": 1,
+          "thumbnail": "/assets/images/products/p-1-1.png",
+          "original": "/assets/images/products/p-1-1-m.png"
+        },
+        {
+          "id": 2,
+          "thumbnail": "/assets/images/products/p-1-2.png",
+          "original": "/assets/images/products/p-1-2-m.png"
+        },
+        {
+          "id": 3,
+          "thumbnail": "/assets/images/products/p-1-3.png",
+          "original": "/assets/images/products/p-1-3-m.png"
+        }
+      ],
+      "quantity": 70,
+      "price": 2.50,
+      "sale_price": 2.00,
+      "unit": "1 each",
+      "tag": [
+        {
+          "id": 1,
+          "name": "Fresh food",
+          "slug": "fresh-food"
+        },
+        {
+          "id": 2,
+          "name": "Organic",
+          "slug": "organic"
+        },
+        {
+          "id": 3,
+          "name": "Cilantro",
+          "slug": "cilantro"
+        },
+        {
+          "id": 4,
+          "name": "Dry Food",
+          "slug": "dry-food"
+        }
+      ],
+      "variations": [
+        {
+          "id": 1,
+          "value": "1ct",
+          "attribute": {
+            "id": 1,
+            "name": "Available in",
+            "slug": "available-in"
+          }
+        },
+        {
+          "id": 2,
+          "value": "5ct",
+          "attribute": {
+            "id": 1,
+            "name": "Available in",
+            "slug": "available-in"
+          }
+        },
+        {
+          "id": 3,
+          "value": "10ct",
+          "attribute": {
+            "id": 1,
+            "name": "Available in",
+            "slug": "available-in"
+          }
+        }
+      ]
+    },
+    {
+      "id": "w8",
+      "name": "Calavo Hass Avocados Fresh Produce",
+      "slug": "calavo-hass-avocados-fresh-produce",
+      "description": "Contains Folic acid, Vitamin K, Carotenoids, Iron, Calcium, Mint facilitates digestion and acts as a remedy for treating acne and pimples. Treat them like a little bouquet and put them in the fridge. Snip off stalks as you need them. Alternatively, you can store them in the plastic bag.",
+      "image": {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-8.png",
+        "original": "/assets/images/products/p-8-m.png"
+      },
+      "gallery": [
+        {
+          "id": 1,
+          "thumbnail": "/assets/images/products/p-1-1.png",
+          "original": "/assets/images/products/p-1-1-m.png"
+        },
+        {
+          "id": 2,
+          "thumbnail": "/assets/images/products/p-1-2.png",
+          "original": "/assets/images/products/p-1-2-m.png"
+        },
+        {
+          "id": 3,
+          "thumbnail": "/assets/images/products/p-1-3.png",
+          "original": "/assets/images/products/p-1-3-m.png"
+        }
+      ],
+      "quantity": 70,
+      "price": 6.98,
+      "sale_price": 8.30,
+      "unit": "4 count bag ",
+      "tag": [
+        {
+          "id": 1,
+          "name": "Fresh food",
+          "slug": "fresh-food"
+        },
+        {
+          "id": 2,
+          "name": "Organic",
+          "slug": "organic"
+        },
+        {
+          "id": 3,
+          "name": "Cilantro",
+          "slug": "cilantro"
+        },
+        {
+          "id": 4,
+          "name": "Dry Food",
+          "slug": "dry-food"
+        }
+      ],
+      "variations": [
+        {
+          "id": 1,
+          "value": "1ct",
+          "attribute": {
+            "id": 1,
+            "name": "Available in",
+            "slug": "available-in"
+          }
+        },
+        {
+          "id": 2,
+          "value": "5ct",
+          "attribute": {
+            "id": 1,
+            "name": "Available in",
+            "slug": "available-in"
+          }
+        },
+        {
+          "id": 3,
+          "value": "10ct",
+          "attribute": {
+            "id": 1,
+            "name": "Available in",
+            "slug": "available-in"
+          }
+        }
+      ]
+    }]

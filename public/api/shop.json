@@ -1,0 +1,24 @@
+{
+  "id": 1,
+  "owner_id": 1,
+  "owner_name": "Marcel",
+  "is_active" : true,
+  "address": "1986 Spinnaker Lane, Illinois, Freeport, 61032, USA",
+  "phone": "+88018927525111",
+  "website": "www.redq.io",
+  "name": "Area 365 Mart",
+  "slug": "area-365-mart",
+  "description": "The grocery shop is the best shop around the city. Get groceries delivered and order the best of seasonal farm fresh food.",
+  "cover_image": {
+    "id": 1,
+    "thumbnail": "/assets/images/shop/shop-banner-1.jpg",
+    "original": "/assets/images/shop/shop-banner-mobile-1.png"
+  },
+  "logo": {
+    "id": 1,
+    "thumbnail": "/assets/images/shop/shop-logo-1.jpg",
+    "original": "/assets/images/shop/shop-logo-1.jpg"
+  },
+  "created_at": "2018-05-23",
+  "updated_at": "2020-05-23"
+}

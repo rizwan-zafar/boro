@@ -1,0 +1,38 @@
+{
+  "id": 1,
+  "tracking_number": "XRQ4567",
+  "customer": {
+    "id": 1,
+    "email": "customer@demo.com"
+  },
+  "total": 132,
+  "shipping_fee": 17,
+  "payment_gateway": "cash on delivery",
+  "products": [
+    {
+      "id": 1,
+      "name": "Fresh Green Leaf Lettuce",
+      "quantity": 10,
+      "price": 5
+    },
+    {
+      "id": 2,
+      "name": "Leafy Romaine Mixed Lettuce",
+      "quantity": 10,
+      "price": 15
+    },
+    {
+      "id": 3,
+      "name": "Organic Girl Lettuce",
+      "quantity": 5,
+      "price": 25
+    },
+    {
+      "id": 4,
+      "name": "Organic Firm Fresh White Lettuce - 36oz",
+      "quantity": 10,
+      "price": 35
+    }
+  ],
+  "note": "new order"
+}

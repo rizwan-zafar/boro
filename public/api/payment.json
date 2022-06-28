@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "title": "Citi Bank",
+        "default": true,
+        "type": "VISA",
+        "card": {
+            "name": "John Doe",
+            "address_country": "USA",
+            "number": "4242 4242 4242",
+            "address_zip": "02210",
+            "last4": 4444
+        }
+    }
+]

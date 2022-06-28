@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "title": "Primary Number",
+        "default": true,
+        "number":"(202) 555-0191"
+    },
+    {
+        "id": 2,
+        "title": "Secondary Number",
+        "default": false,
+        "number":"(202) 555-0701"
+    }
+]

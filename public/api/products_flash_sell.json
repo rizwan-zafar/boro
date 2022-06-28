@@ -1,0 +1,102 @@
+[
+  {
+    "id": "pfs1",
+    "name": "Lay's Kettle Cooked Potato Chips",
+    "slug": "lay's-kettle-cooked-potato-chips",
+    "description": "A chip (often just chip, or crisp in British and Irish English) may be a thin slice of potato that has been either deep fried or baked until crunchy. they're commonly served as a snack, side dish, or appetizer. the essential chips are cooked and salted; additional varieties are manufactured using various flavorings and ingredients including herbs, spices, cheeses, other natural flavors, artificial flavors, and additives.",
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/p-38.png",
+      "original": "/assets/images/products/p-38-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-38-1.png",
+        "original": "/assets/images/products/p-38-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-38-2.png",
+        "original": "/assets/images/products/p-38-2.png"
+      }
+    ],
+    "quantity": 70,
+    "sold": 50,
+    "price": 6.98,
+    "sale_price": 6.20,
+    "unit": "1 each",
+    "tag": [
+      {
+        "id": 1,
+        "name": "Fast food",
+        "slug": "fast-food"
+      },
+      {
+        "id": 2,
+        "name": "Artificial",
+        "slug": "artificial"
+      },
+      {
+        "id": 3,
+        "name": "Snacks",
+        "slug": "snacks"
+      },
+      {
+        "id": 4,
+        "name": "Dry Food",
+        "slug": "dry-food"
+      }
+    ]
+  },
+  {
+    "id": "pfs2",
+    "name": "Lay's Kettle Cooked Potato Chips",
+    "slug": "lay's-kettle-cooked-potato-chips",
+    "description": "A chip (often just chip, or crisp in British and Irish English) may be a thin slice of potato that has been either deep fried or baked until crunchy. they're commonly served as a snack, side dish, or appetizer. the essential chips are cooked and salted; additional varieties are manufactured using various flavorings and ingredients including herbs, spices, cheeses, other natural flavors, artificial flavors, and additives.",
+    "image": {
+      "id": 1,
+      "thumbnail": "/assets/images/products/p-38.png",
+      "original": "/assets/images/products/p-38-m.png"
+    },
+    "gallery": [
+      {
+        "id": 1,
+        "thumbnail": "/assets/images/products/p-38-1.png",
+        "original": "/assets/images/products/p-38-1.png"
+      },
+      {
+        "id": 2,
+        "thumbnail": "/assets/images/products/p-38-2.png",
+        "original": "/assets/images/products/p-38-2.png"
+      }
+    ],
+    "quantity": 70,
+    "sold": 50,
+    "price": 6.98,
+    "sale_price": 6.20,
+    "unit": "1 each",
+    "tag": [
+      {
+        "id": 1,
+        "name": "Fast food",
+        "slug": "fast-food"
+      },
+      {
+        "id": 2,
+        "name": "Artificial",
+        "slug": "artificial"
+      },
+      {
+        "id": 3,
+        "name": "Snacks",
+        "slug": "snacks"
+      },
+      {
+        "id": 4,
+        "name": "Dry Food",
+        "slug": "dry-food"
+      }
+    ]
+  }
+]
