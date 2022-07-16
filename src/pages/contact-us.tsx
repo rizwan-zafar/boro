@@ -1,12 +1,10 @@
 import Container from '@components/ui/container';
 import Layout from '@components/layout/layout';
-import Map from '@components/ui/map';
 import PageContactHeroSection from '@components/ui/page-contact-hero-section';
 import { serverSideTranslations } from 'next-i18next/serverSideTranslations';
 import DownloadApps from '@components/common/download-apps';
 import ContactForm from '@components/common/form/contact-form';
 import ContactSupport from '@components/contact/contact-support';
-import ContactInformation from '@components/contact/contact-information';
 import Seo from '@components/seo/seo';
 
 export default function ContactUsPage() {
@@ -29,9 +27,9 @@ export default function ContactUsPage() {
             </div>
           </div>
         </div>
-        <ContactInformation />
+        {/* <ContactInformation /> */}
       </Container>
-      <div className="mt-12 md:mt-16 xl:mt-20 2xl:mt-24 bg-fill-two relative h-[420px]">
+      {/* <div className="mt-12 md:mt-16 xl:mt-20 2xl:mt-24 bg-fill-two relative h-[420px]">
         <Map
           lat={1.295831}
           lng={103.76261}
@@ -39,7 +37,7 @@ export default function ContactUsPage() {
           zoom={15}
           showInfoWindow={true}
         />
-      </div>
+      </div> */}
       <DownloadApps />
     </>
   );
